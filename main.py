@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from scipy.spatial.distance import cosine
-import read_vectors as rv  # Assume this module handles loading the vectors
+import read_vectors as rv
 
 # Plot the first vector's values over time
 def plot_vector(vector, title):
